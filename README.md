@@ -10,7 +10,7 @@ Esse repositório contém um programa que foi desenvolvido em C para a disciplin
 - **Listar Consultas**: Veja todas as consultas agendadas para um paciente específico.
 - **Alterar Horários**: Mude o horário de uma consulta que já foi agendada.
 
-#Demonstração: 
+# Demonstração: 
 <div>
     <img src="https://i.imgur.com/M9mxQkp.png" alt="Demostracao_gere" width="400">
 </div>
